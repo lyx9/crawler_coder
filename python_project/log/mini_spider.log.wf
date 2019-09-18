@@ -1,0 +1,10 @@
+ERROR: 09-16 20:23:27: config_args.py:40 * 4467770816  * Config-file error: File contains no section headers.
+file: spider.conf, line: 1
+'url_list_file: ./urls ;\n'
+ERROR: 09-16 20:24:06: config_args.py:40 * 4518868416  * Config-file error: File contains no section headers.
+file: spider.conf, line: 1
+'url_list_file: ./urls ;\n'
+WARNING: 09-16 20:26:16: downloader.py:68 * 123145526587392  * Try for 1th times
+WARNING: 09-16 20:26:18: downloader.py:68 * 123145526587392  * Try for 2th times
+WARNING: 09-16 20:26:20: downloader.py:68 * 123145526587392  * Try for 3th times
+WARNING: 09-16 20:26:20: downloader.py:70 * 123145526587392 * Downloading failed : http://pycm.baidu.com:8081-<urlopen error timed out>
